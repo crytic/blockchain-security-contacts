@@ -6,12 +6,13 @@ This directory is a community-curated resource for contacting security teams. It
 
 | Name | Deployed Addresses | Contact | 
 | --- | --- | --- |
+| Compound Finance | | security@compound.finance
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org |
 
 ## ERC20 Tokens
 
 | Name | Deployed Addresses | Contact | 
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | My ERC20 Token | 0x0000.... | security@example.com | 
 
 ## ERC721 Tokens
