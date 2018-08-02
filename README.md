@@ -12,7 +12,7 @@ This directory is a community-curated resource for contacting security teams. It
 ## ERC20 Tokens
 
 | Name | Deployed Addresses | Contact | More info |
-| --- | --- | --- | 
+| --- | --- | --- | --- |
 | My ERC20 Token | 0x0000.... | security@example.com | |
 
 ## ERC721 Tokens
