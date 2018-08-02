@@ -9,3 +9,4 @@ PRs that add or modify contact information must be verified as correct prior to 
 ## Rules for content
 
 * If any links are used, they must be HTTPS
+* Insert new contacts in alphabetical order by name
