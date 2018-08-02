@@ -4,10 +4,10 @@ This directory is a community-curated resource for contacting security teams. It
 
 ## Decentralized Applications
 
-| Name | Deployed Addresses | Contact | 
-| --- | --- | --- |
-| Compound Finance | | security@compound.finance
-| LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org |
+| Name | Deployed Addresses | Contact | More info |
+| --- | --- | --- | --- |
+| Compound Finance | | security@compound.finance | |
+| LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 
 ## ERC20 Tokens
 
