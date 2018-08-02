@@ -6,10 +6,12 @@ This directory is a community-curated resource for contacting security teams. It
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
-| My dapp | External Reference | security@example.org | example.org/security |
+| My Dapp | External Reference | security@example.org | example.org/security |
+| Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
-| Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
+| Melonport |  | security@melonport.com | [Bug Bounty](https://melonport.com/bug-bounty) |
+
 
 ## ERC20 Tokens
 
