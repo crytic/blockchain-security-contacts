@@ -18,5 +18,5 @@ This directory is a community-curated resource for contacting security teams. It
 
 | Name | Contact |
 | --- | --- |
-| Gemini Trust | https://gemini.com/security/ |
 | Coinbase | https://hackerone.com/coinbase |
+| Gemini Trust | https://gemini.com/security/ |
