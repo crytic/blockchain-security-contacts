@@ -3,3 +3,7 @@ PRs that add or modify contact information must be verified as correct prior to 
 * **Reference an official website.** Provide a reference to an official website with the information that was submitted.
 * **Make a public tweet.** Use an established Twitter account that represents the organization to tweet a link to the PR.
 * **Use a dumb contract.** Have an established, contractual business relationship with Trail of Bits.
+
+## Rules for content
+
+* If any links are used, they must be HTTPS
