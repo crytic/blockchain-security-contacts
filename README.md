@@ -6,7 +6,7 @@ This directory is a community-curated resource for contacting security teams. It
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
-| My Dapp | External Reference | security@example.org | example.org/security |
+| 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xProject.com | [Bug Bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
