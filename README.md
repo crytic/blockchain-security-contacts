@@ -8,7 +8,7 @@ This directory is a community-curated resource for contacting security teams. It
 | --- | --- | --- | --- |
 | Compound Finance | | security@compound.finance | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
-| Bloom | [Contract Docs](https://bloom.co/docs/contracts/accounts) | team@bloom.co or isaac@bloom.co | |
+| Bloom | [Contract Docs](https://bloom.co/docs/contracts/accounts/) | team@bloom.co or isaac@bloom.co | |
 
 ## ERC20 Tokens
 
