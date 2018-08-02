@@ -1,3 +1,5 @@
+## Verification
+
 PRs that add or modify contact information must be verified as correct prior to being merged. Please use one of the verification below. If none of these work, please indicate why in the PR and we'll do our best to work it out.
 
 * **Reference an official website.** Provide a reference to an official website with the information that was submitted.
