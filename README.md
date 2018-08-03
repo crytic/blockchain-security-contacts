@@ -42,12 +42,13 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 
 | Name | Contact |
 | --- | --- |
-| Coinbase | https://hackerone.com/coinbase |
-| Gemini Trust | https://gemini.com/security/ |
+| Coinbase | [Bug bounty](https://hackerone.com/coinbase) |
+| Gemini Trust | [Security page](https://gemini.com/security/) |
 
 ## Wallets
 
 | Name | Contact | More info |
 | --- | --- | --- |
+| MyCrypto | | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 
