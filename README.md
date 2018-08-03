@@ -17,7 +17,7 @@ This directory is a community-curated resource for contacting security teams. It
 | Compound Finance | | security@compound.finance | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 | Melonport |  | security@melonport.com | [Bug Bounty](https://melonport.com/bug-bounty) |
-
+| Parity | | bugbounty@parity.io | [Bug Bounty](https://paritytech.io/bug-bounty/) |
 
 ## ERC20 Tokens
 
