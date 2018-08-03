@@ -32,7 +32,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ontology | contact@ont.io | |
 | Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
-| Steem | 
+| Sia | hello@sia.tech | | 
+| Steem | | |
 | Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) | 
 | Qtum | | | 
 | VeChain | | |
