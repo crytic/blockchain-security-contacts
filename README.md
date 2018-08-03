@@ -32,10 +32,10 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Ticker | Mainnet Address | Contact | More info |
 | ---  | ---    | ---             | ---     | ---       |
-| Aelf | ELF | [Etherscan](https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e) | | |
-| Aeternity | AE | [Etherscan](https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d) | | |
-| Aion | AION | [Etherscan](https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466) | | |
-| AirSwap | AST | [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a) | | |
+| Aelf | ELF | [Etherscan](https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e) | contact@aelf.io | |
+| Aeternity | AE | [Etherscan](https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d) | info@aeternity.com | |
+| Aion | AION | [Etherscan](https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466) | hello@aion.network | |
+| AirSwap | AST | [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a) | team@airswap.io | |
 | Aragon | ANT | [Etherscan](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0) | security@aragon.one | |
 | Augur | REP | [Etherscan](https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862) | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Aurora | AOA | [Etherscan](https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a) | | |
