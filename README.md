@@ -6,7 +6,7 @@ This directory is a community-curated resource for contacting security teams. It
 
 * Refer to [disclose.io](https://disclose.io/) for vulnerability disclosure program best practices
 * Don't make researchers [agree to terms](https://twitter.com/matthew_d_green/status/1025365194330066945) to report security issues to you
-* Create a dedicated security@ email address that bypasses normal support to reach your engineering team
+* Create a dedicated security@ email address that delivers directly to your engineering team
 
 This document is a work in progress. We're happy to accept feedback, questions, or ideas for improvements. [File an issue](https://github.com/trailofbits/blockchain-security-contacts/issues/new) on Github or [join us on Slack](https://empireslacking.herokuapp.com/) to talk further.
 
