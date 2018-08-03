@@ -77,7 +77,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Power Ledger | POWR | [Etherscan](https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269) | support@powerledger.io | |
 | Pundi X | NPXS | [Etherscan](https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3) | contact@pundix.com | |
 | QASH | QASH | [Etherscan](https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6) | | |
-| Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | info@quantstamp.com | |
+| Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | security@quantstamp.com | [Security page](https://quantstamp.com/responsible-disclosure) |
 | RChain | RHOC | [Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
