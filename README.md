@@ -20,10 +20,11 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 | Augur | | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
+| Decentraland | | | |
+| Funfair | | | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 | Melonport |  | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
-| Parity | | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 
 ## ERC20 Tokens
 
@@ -44,3 +45,10 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 | --- | --- |
 | Coinbase | https://hackerone.com/coinbase |
 | Gemini Trust | https://gemini.com/security/ |
+
+## Wallets
+
+| Name | Contact | More info |
+| --- | --- | --- |
+| Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
+
