@@ -16,9 +16,26 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | ---- |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
+| Bitcoin Gold | admin@bitcoingold.org | [Security page](https://bitcoingold.org/responsible-disclosure/) |
+| Bitshares | contactbitshares@bitshares.org | | 
+| Bytecoin | contact@bytecoin.org | | 
+| Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
+| Decred | | |
+| DogeCoin | | |
+| EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
+| ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
+| Nem | contact@neo.io | | 
+| Neo | contact@neo.org | |
+| Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
+| Ontology | contact@ont.io | |
+| Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
+| Steem | 
+| Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) | 
+| Qtum | | | 
+| VeChain | | |
 | ZCash | | |
 
 ## Decentralized Applications
