@@ -14,8 +14,12 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | ---- |
-| Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/)
+| Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
+| Bitcoin Cash | | |
+| Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
+| Litecoin | contact@litecoin.org |  |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
+| ZCash | | |
 
 ## Decentralized Applications
 
