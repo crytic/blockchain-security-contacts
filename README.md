@@ -26,7 +26,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
-| Nem | contact@neo.io | | 
+| Nem | contact@nem.io | | 
 | Neo | contact@neo.org | |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
