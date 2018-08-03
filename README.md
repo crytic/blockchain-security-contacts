@@ -4,6 +4,8 @@ This directory is a community-curated resource for contacting security teams. It
 
 See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerability disclosure program.
 
+This document is a work in progress. We're happy to accept feedback, questions, or ideas for improvements. [File an issue](https://github.com/trailofbits/blockchain-security-contacts/issues/new) on Github or [join us on Slack](https://empireslacking.herokuapp.com/) to talk further.
+
 ## Blockchains
 
 | Name | Contact | More info |
