@@ -68,6 +68,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | OmiseGO (OMG) | | | |
 | Paypex (PAYX) | | | |
 | Polymath (POLY) | | | |
+| PolySwarm (NCT) | | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
 | Populous (PPT) | | | |
 | Power Ledger (POWR) | | | |
 | Pundi X (NPXS) | | | |
