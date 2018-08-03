@@ -64,30 +64,30 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | team@loomx.io | |
 | Maker | MKR | [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) | | |
 | Melon Token | MNT | | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
-| Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | | |
+| Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
-| Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | | |
-| Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | | |
-| ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | | |
+| Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
+| ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
-| Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | | |
+| Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
 | Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | | |
-| Populous | PPT | [Etherscan](https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a) | | |
-| Power Ledger | POWR | [Etherscan](https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269) | | |
-| Pundi X | NPXS | [Etherscan](https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3) | | |
+| Populous | PPT | [Etherscan](https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a) | info@populous.co | |
+| Power Ledger | POWR | [Etherscan](https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269) | support@powerledger.io | |
+| Pundi X | NPXS | [Etherscan](https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3) | contact@pundix.com | |
 | QASH | QASH | [Etherscan](https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6) | | |
-| Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | | |
+| Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | info@quantstamp.com | |
 | RChain | RHOC | [Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
-| Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | | |
-| Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | | |
-| TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | | |
-| TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | | |
+| Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
+| Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
+| TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | team@tenx.tech | |
+| TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | hello@trusttoken.com | |
 | Veritaseum | VERI | [Etherscan](https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374) | | |
-| Waltonchain | WTC | [Etherscan](https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74) | | |
-| WAX | WAX | [Etherscan](https://etherscan.io/token/0x39bb259f66e1c59d5abef88375979b4d20d98022) | | |
+| Waltonchain | WTC | [Etherscan](https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74) | info@waltonchain.org | |
+| WAX | WAX | [Etherscan](https://etherscan.io/token/0x39bb259f66e1c59d5abef88375979b4d20d98022) | support@wax.io | |
 | Zilliqa | ZIL | [Etherscan](https://etherscan.io/token/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27) | security@zilliqa.com | |
 
 ## ERC721 Tokens
