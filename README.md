@@ -6,13 +6,15 @@ This directory is a community-curated resource for contacting security teams. It
 
 | Name | Contact | More info |
 | --- | --- | ---- |
-| RSK | security@rsk.co | [Bug Bounty](https://hackerone.com/rsksmart) |
+| Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/)
+| RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
 
 ## Decentralized Applications
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xProject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
+| Aragon | | security@aragon.one | |
 | Augur | | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
