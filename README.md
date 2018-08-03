@@ -2,6 +2,12 @@
 
 This directory is a community-curated resource for contacting security teams. It identifies the best way to contact an organization's security team so that all hackers can report potential vulnerabilities directly to the organizations that can resolve them.
 
+## Blockchains
+
+| Name | Contact | More info |
+| --- | --- | ---- |
+| RSK | security@rsk.co | [Bug Bounty](https://hackerone.com/rsksmart) |
+
 ## Decentralized Applications
 
 | Name | Deployed Addresses | Contact | More info |
