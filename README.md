@@ -21,8 +21,6 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 | Dharma | | security@dharma.io | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
-| Maker | | |
-| Melonport |  | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
 
 ## ERC20 Tokens
 
@@ -60,6 +58,7 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 | Loom Network (LOOM) | | | |
 | Maker (MKR) | | | |
 | MCO (MCO) | | | |
+| Melon Token (MNT) | | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
 | Mithril (MITH) | | | |
 | Mixin (XIN) | | | |
 | Nuls (NULS) | | | |
