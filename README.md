@@ -4,8 +4,6 @@ This directory is a community-curated resource for contacting security teams. It
 
 See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerability disclosure program.
 
-This document is a work in progress. We're happy to accept feedback, questions, or ideas for improvements. [File an issue](https://github.com/trailofbits/blockchain-security-contacts/issues/new) on Github or [join us on Slack](https://empireslacking.herokuapp.com/) to talk further.
-
 ## Blockchains
 
 | Name | Contact | More info |
@@ -82,7 +80,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Veritaseum (VERI) | | | |
 | Waltonchain (WTC) | | | |
 | WAX (WAX) | | | |
-| Zilliqa (ZIL) | | | |
+| Zilliqa (ZIL) | 0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27 | security@zilliqa.com | |
 
 
 ## ERC721 Tokens
