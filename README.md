@@ -65,7 +65,7 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 | ODEM (ODE) | | | |
 | OmiseGO (OMG) | | | |
 | Paypex (PAYX) | | | |
-| Polymth (POLY) | | | |
+| Polymath (POLY) | | | |
 | Populous (PPT) | | | |
 | Power Ledger (POWR) | | | |
 | Pundi X (NPXS) | | | |
