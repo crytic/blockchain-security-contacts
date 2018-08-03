@@ -27,14 +27,14 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 
 ## ERC20 Tokens
 
-| Name | Deployed Addresses | Contact | More info |
+| Name | Deployed Address | Contact | More info |
 | --- | --- | --- | --- |
 | My ERC20 Token | 0x0000.... | security@example.com | |
 | BLT | 0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e | team@bloom.co | |
 
 ## ERC721 Tokens
 
-| Name | Deployed Addresses | Contact | More Info |
+| Name | Deployed Address | Contact | More Info |
 | --- | --- | --- | --- |
 | My ERC721 Token | 0x0000.... | security@example.com | |
 
