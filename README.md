@@ -121,11 +121,11 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 ## Exchanges
 
-| Name | Contact |
-| --- | --- |
-| Binance | |
-| Coinbase | [Bug bounty](https://hackerone.com/coinbase) |
-| Gemini Trust | [Security page](https://gemini.com/security/) |
+| Name | Contact | More Info |
+| --- | --- | --- |
+| Binance | | |
+| Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
+| Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 
 ## Wallets
 
