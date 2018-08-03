@@ -15,33 +15,87 @@ See [disclose.io](https://disclose.io/) if you're looking to setup a vulnerabili
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
-| 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xProject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
-| Aragon | | security@aragon.one | |
-| Augur | | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
+| 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
-| Decentraland | | | |
-| Funfair | | | |
+| Dharma | | security@dharma.io | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
+| Maker | | |
 | Melonport |  | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
 
 ## ERC20 Tokens
 
 | Name | Deployed Address | Contact | More info |
 | --- | --- | --- | --- |
-| BLT | 0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e | team@bloom.co | |
+| Aelf (ELF) | | | |
+| Aeternity (AE) | | | |
+| Aion (AION) | | | |
+| AirSwap (AST) | | | |
+| Aragon (ANT) | | security@aragon.one | |
+| Augur (REP) | | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
+| Aurora (AOA) | | | |
+| Bancor (BNT) | | |  |
+| Basic Attention Token (BAT) | | security@brave.com | [Bug bounty](https://hackerone.com/brave)
+| Bibox Token (BIX) | | |  |
+| Binance Coin (BNB) | | | |
+| Bloom (BLT) | 0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e | team@bloom.co | |
+| Bytom (BTM) | | | |
+| ChainLink (LINK) | | | |
+| CyberMiles (CMT) | | | |
+| Dai (DAI) | | |  |
+| Decentraland (MANA) | | | |
+| DentaCoin (DCN) | | | |
+| DigixDAO (DGD) | | | |
+| Dropil (DROP) | | | |
+| FunFair (FUN) | | | |
+| Gnosis (GNO) | | | |
+| Golem (GNT) | | | |
+| Holo (HOT) | | | |
+| IOST (IOST) | | | |
+| Kin (KIN) | | | |
+| KuCoin Shares (KCS) | | | |
+| Kyber Network (KNC) | | | |
+| Loopring (LRC) | | | |
+| Loom Network (LOOM) | | | |
+| Maker (MKR) | | | |
+| MCO (MCO) | | | |
+| Mithril (MITH) | | | |
+| Mixin (XIN) | | | |
+| Nuls (NULS) | | | |
+| ODEM (ODE) | | | |
+| OmiseGO (OMG) | | | |
+| Paypex (PAYX) | | | |
+| Polymth (POLY) | | | |
+| Populous (PPT) | | | |
+| Power Ledger (POWR) | | | |
+| Pundi X (NPXS) | | | |
+| QASH (QASH) | | | |
+| Quantstamp (QSP) | | |  |
+| RChain (RHOC) | | | |
+| SpankChain (SPANK) | | | |
+| Status (SNT) | | | |
+| Storj (STORJ) | | | |
+| TenX (PAY) | | | |
+| TrueUSD (TUSD) | | | |
+| Veritaseum (VERI) | | | |
+| Waltonchain (WTC) | | | |
+| WAX (WAX) | | | |
+| Zilliqa (ZIL) | | | |
+
 
 ## ERC721 Tokens
 
 | Name | Deployed Address | Contact | More Info |
 | --- | --- | --- | --- |
-| My ERC721 Token | 0x0000.... | security@example.com | |
+| CryptoKitties (CK) | | | |
+| Gods Unchained (GODS) | | | |
 
 ## Exchanges
 
 | Name | Contact |
 | --- | --- |
+| Binance | |
 | Coinbase | [Bug bounty](https://hackerone.com/coinbase) |
 | Gemini Trust | [Security page](https://gemini.com/security/) |
 
