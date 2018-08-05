@@ -48,7 +48,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Compound Finance | | security@compound.finance | |
 | Dharma | | security@dharma.io | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
-| LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
+| Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | Up to 20 ETH for bugs in contracts in use |
+| LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | 
+|
 
 ## ERC20 Tokens
 
