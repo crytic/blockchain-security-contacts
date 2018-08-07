@@ -36,6 +36,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Steem | | |
 | Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) | 
 | Qtum | | | 
+| Quorum | quorum_info@jpmorgan.com | | 
 | VeChain | | |
 | ZCash | | |
 
