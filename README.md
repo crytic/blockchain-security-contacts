@@ -134,5 +134,5 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | --- |
 | MetaMask | | |
-| MyCrypto | | [Bug bounty](https://hackerone.com/mycrypto) |
+| MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
