@@ -20,7 +20,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitshares | contactbitshares@bitshares.org | | 
 | Bytecoin | contact@bytecoin.org | | 
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
-| Decred | | |
+| Decred | contact@decred.org | |
 | DogeCoin | | |
 | EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
