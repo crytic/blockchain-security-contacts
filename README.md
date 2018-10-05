@@ -66,7 +66,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bancor | BNT | [Etherscan](https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c) | contact@bancor.network |  |
 | Basic Attention Token | BAT | | security@brave.com | [Bug bounty](https://hackerone.com/brave)
 | Bibox Token | BIX | [Etherscan](https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069) | |  |
-| Binance Coin | BNB | [Etherscan](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52) | | |
+| Binance Coin | BNB | [Etherscan](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52) | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bloom | BLT | [Etherscan](https://etherscan.io/token/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e) | team@bloom.co | |
 | Bytom | BTM | [Etherscan](https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750) | contact@bytom.io | |
 | ChainLink | LINK | [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca) | support@chain.link | |
@@ -125,7 +125,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
-| Binance | | |
+| Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 
@@ -136,3 +136,5 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
+| Trustwallet | support@trustwalletapp.com |  |
+
