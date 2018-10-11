@@ -68,6 +68,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bibox Token | BIX | [Etherscan](https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069) | |  |
 | Binance Coin | BNB | [Etherscan](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52) | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bloom | BLT | [Etherscan](https://etherscan.io/token/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e) | team@bloom.co | |
+| Brickblock | BBK | [Etherscan](https://etherscan.io/token/0x4a6058666cf1057eac3cd3a5a614620547559fc9) | security@brickblock.io | |
 | Bytom | BTM | [Etherscan](https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750) | contact@bytom.io | |
 | ChainLink | LINK | [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca) | support@chain.link | |
 | CyberMiles | CMT | [Etherscan](https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f) | contact@cybermiles.io | |
