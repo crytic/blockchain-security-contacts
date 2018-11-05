@@ -130,6 +130,12 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 
+## Infrastructure
+
+| Name | Contact | More Info |
+| --- | --- | --- |
+| Infura | security@infura.io | |
+
 ## Wallets
 
 | Name | Contact | More info |
