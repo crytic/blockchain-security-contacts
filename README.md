@@ -16,7 +16,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | ---- |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
-| Bitcoin Gold | admin@bitcoingold.org | [Security page](https://bitcoingold.org/responsible-disclosure/) |
+| Bitcoin Gold | admin@bitcoingold.org | [Disclosure policy](https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md) |
 | Bitshares | contactbitshares@bitshares.org | |
 | Bytecoin | contact@bytecoin.org | |
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
