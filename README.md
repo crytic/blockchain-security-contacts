@@ -17,8 +17,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
 | Bitcoin Gold | admin@bitcoingold.org | [Security page](https://bitcoingold.org/responsible-disclosure/) |
-| Bitshares | contactbitshares@bitshares.org | | 
-| Bytecoin | contact@bytecoin.org | | 
+| Bitshares | contactbitshares@bitshares.org | |
+| Bytecoin | contact@bytecoin.org | |
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
 | Decred | contact@decred.org | |
 | DogeCoin | | |
@@ -26,17 +26,17 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
-| Nem | contact@nem.io | | 
+| Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
 | Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
-| Sia | hello@sia.tech | | 
+| Sia | hello@sia.tech | |
 | Steem | | |
-| Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) | 
-| Qtum | | | 
-| Quorum | quorum_info@jpmorgan.com | | 
+| Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) |
+| Qtum | | |
+| Quorum | quorum_info@jpmorgan.com | |
 | VeChain | | |
 | ZCash | security@z.cash | [Security page](https://z.cash/support/security/) |
 
@@ -48,7 +48,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Dharma | | security@dharma.io | |
-| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
+| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 
@@ -129,6 +129,23 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
+| BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
+| OKEx | support@okex.com, lawenforcement@okex.com | [Risk and Compliance Disclosure Page](https://support.okex.com/hc/en-us/articles/360018830091) |
+| Huobi Global | support@huobi.pro | [Huobi Global Twitter](https://twitter.com/HuobiGlobal) |
+| Coinbit | cs@coinbit.co.kr | [Coinbit Homepage](https://www.coinbit.co.kr/) |
+| Digifinex | support@digifinex.com | [Digifinex Homepage](https://www.digifinex.com/) |
+| Bitforex | support@bitforex.com, report@bitforex.com | [Contact Us Page](https://support.bitforex.com/hc/en-us/articles/360006988871-Contact-Us) |
+| DOBI | service@dobitrade.com | [DOBI Homepage](https://www.dobitrade.com/) |
+| Bibox | support@bibox.zendesk.com | [Bibox Homepage](https://www.bibox.com/) |
+| Coinbene | support@coinbene.com | [Coinbene Homepage](https://www.coinbene.com/#/) |
+| Coinsuper | customer.support@coinsuper.com | [Coinsuper Homepage](https://www.coinsuper.com/home) |
+| ZBG | sp@zbg.com | [ZBG Homepage](https://www.zbg.com/) |
+| IDAX | service@idax.mn | [IDAX Homepage](https://www.idax.mn/#/) |
+| HitBTC | relations@hitbtc.com, legal@hitbtc.com | [HitBTC Legal Information Page](https://hitbtc.com/legal-information) |
+| EXX | support@exx.com | [EXX Homepage](https://www.exx.com/) |
+| BCEX | business@bcex.top, service@bcex.top | [BCEX Homepage](https://www.bcex.ca/index/coins) |
+| Bit-Z | safe@bit-z.pro | [Bit-Z Homepage](https://www.bit-z.com/) |
+
 
 ## Wallets
 
@@ -138,4 +155,3 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
-
