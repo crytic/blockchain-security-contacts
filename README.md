@@ -38,7 +38,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Qtum | | | 
 | Quorum | quorum_info@jpmorgan.com | | 
 | VeChain | | |
-| ZCash | security@z.cash | https://z.cash/support/security/ |
+| ZCash | security@z.cash | [Security page](https://z.cash/support/security/) |
 
 ## Decentralized Applications
 
