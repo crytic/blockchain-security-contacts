@@ -126,26 +126,26 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
-| Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
-| Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
-| Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
-| Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
-| BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
-| OKEx | support@okex.com, lawenforcement@okex.com | |
-| Huobi Global | sec@huobi.com | |
-| Coinbit | cs@coinbit.co.kr | |
-| Digifinex | support@digifinex.com | |
-| Bitforex | support@bitforex.com, report@bitforex.com | |
-| DOBI | service@dobitrade.com | |
-| Bibox | support@bibox.zendesk.com | |
-| Coinbene | support@coinbene.com | |
-| Coinsuper | customer.support@coinsuper.com | |
-| ZBG | sp@zbg.com | |
-| IDAX | service@idax.mn | |
-| HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
-| EXX | support@exx.com | |
 | BCEX | business@bcex.top, service@bcex.top | |
+| Bibox | support@bibox.zendesk.com | |
+| Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bit-Z | safe@bit-z.pro | |
+| Bitforex | support@bitforex.com, report@bitforex.com | |
+| BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
+| Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
+| Coinbene | support@coinbene.com | |
+| Coinbit | cs@coinbit.co.kr | |
+| Coinsuper | customer.support@coinsuper.com | |
+| Digifinex | support@digifinex.com | |
+| DOBI | service@dobitrade.com | |
+| EXX | support@exx.com | |
+| Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
+| HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
+| Huobi Global | sec@huobi.com | |
+| IDAX | service@idax.mn | |
+| Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
+| OKEx | support@okex.com, lawenforcement@okex.com | |
+| ZBG | sp@zbg.com | |
 
 
 ## Wallets
