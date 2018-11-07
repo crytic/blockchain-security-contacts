@@ -129,22 +129,23 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
+| Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
-| OKEx | support@okex.com, lawenforcement@okex.com | [Risk and Compliance Disclosure Page](https://support.okex.com/hc/en-us/articles/360018830091) |
-| Huobi Global | support@huobi.pro | [Huobi Global Twitter](https://twitter.com/HuobiGlobal) |
-| Coinbit | cs@coinbit.co.kr | [Coinbit Homepage](https://www.coinbit.co.kr/) |
-| Digifinex | support@digifinex.com | [Digifinex Homepage](https://www.digifinex.com/) |
-| Bitforex | support@bitforex.com, report@bitforex.com | [Contact Us Page](https://support.bitforex.com/hc/en-us/articles/360006988871-Contact-Us) |
-| DOBI | service@dobitrade.com | [DOBI Homepage](https://www.dobitrade.com/) |
-| Bibox | support@bibox.zendesk.com | [Bibox Homepage](https://www.bibox.com/) |
-| Coinbene | support@coinbene.com | [Coinbene Homepage](https://www.coinbene.com/#/) |
-| Coinsuper | customer.support@coinsuper.com | [Coinsuper Homepage](https://www.coinsuper.com/home) |
-| ZBG | sp@zbg.com | [ZBG Homepage](https://www.zbg.com/) |
-| IDAX | service@idax.mn | [IDAX Homepage](https://www.idax.mn/#/) |
-| HitBTC | relations@hitbtc.com, legal@hitbtc.com | [HitBTC Legal Information Page](https://hitbtc.com/legal-information) |
-| EXX | support@exx.com | [EXX Homepage](https://www.exx.com/) |
-| BCEX | business@bcex.top, service@bcex.top | [BCEX Homepage](https://www.bcex.ca/index/coins) |
-| Bit-Z | safe@bit-z.pro | [Bit-Z Homepage](https://www.bit-z.com/) |
+| OKEx | support@okex.com, lawenforcement@okex.com | |
+| Huobi Global | sec@huobi.com | |
+| Coinbit | cs@coinbit.co.kr | |
+| Digifinex | support@digifinex.com | |
+| Bitforex | support@bitforex.com, report@bitforex.com | |
+| DOBI | service@dobitrade.com | |
+| Bibox | support@bibox.zendesk.com | |
+| Coinbene | support@coinbene.com | |
+| Coinsuper | customer.support@coinsuper.com | |
+| ZBG | sp@zbg.com | |
+| IDAX | service@idax.mn | |
+| HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
+| EXX | support@exx.com | |
+| BCEX | business@bcex.top, service@bcex.top | |
+| Bit-Z | safe@bit-z.pro | |
 
 
 ## Wallets
