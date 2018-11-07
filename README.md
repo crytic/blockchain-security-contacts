@@ -16,9 +16,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | ---- |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
-| Bitcoin Gold | admin@bitcoingold.org | [Security page](https://bitcoingold.org/responsible-disclosure/) |
-| Bitshares | contactbitshares@bitshares.org | | 
-| Bytecoin | contact@bytecoin.org | | 
+| Bitcoin Gold | admin@bitcoingold.org | [Disclosure policy](https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md) |
+| Bitshares | contactbitshares@bitshares.org | |
+| Bytecoin | contact@bytecoin.org | |
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
 | Decred | contact@decred.org | |
 | DogeCoin | | |
@@ -26,17 +26,17 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
-| Nem | contact@nem.io | | 
+| Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
 | Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
-| Sia | hello@sia.tech | | 
+| Sia | hello@sia.tech | |
 | Steem | | |
-| Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) | 
-| Qtum | | | 
-| Quorum | quorum_info@jpmorgan.com | | 
+| Tezos | security@tezos.com | [Bug bounty](https://tezos.com/bugbounty/) |
+| Qtum | | |
+| Quorum | quorum_info@jpmorgan.com | |
 | VeChain | | |
 | ZCash | security@z.cash | [Security page](https://z.cash/support/security/) |
 
@@ -48,7 +48,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Dharma | | security@dharma.io | |
-| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) | 
+| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 
@@ -126,9 +126,27 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
+| BCEX | business@bcex.top, service@bcex.top | |
+| Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
+| Bit-Z | safe@bit-z.pro | |
+| Bitforex | support@bitforex.com, report@bitforex.com | |
+| BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
+| Coinbene | support@coinbene.com | |
+| Coinbit | cs@coinbit.co.kr | |
+| Coinsuper | customer.support@coinsuper.com | |
+| Digifinex | support@digifinex.com | |
+| DOBI | service@dobitrade.com | |
+| EXX | support@exx.com | |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
+| HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
+| Huobi Global | sec@huobi.com | |
+| IDAX | service@idax.mn | |
+| Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
+| OKEx | support@okex.com, lawenforcement@okex.com | |
+| ZBG | sp@zbg.com | |
+
 
 ## Infrastructure
 
@@ -145,4 +163,3 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
-
