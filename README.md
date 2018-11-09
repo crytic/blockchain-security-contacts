@@ -97,7 +97,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
 | Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
-| Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | | |
+| Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | support@polymath.zendesk.com | [Bug bounty](https://developers.polymath.network/docs/doc2.html) |
 | Populous | PPT | [Etherscan](https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a) | info@populous.co | |
 | Power Ledger | POWR | [Etherscan](https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269) | support@powerledger.io | |
 | Pundi X | NPXS | [Etherscan](https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3) | contact@pundix.com | |
