@@ -160,6 +160,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | --- |
+| Arkane | info@arkane.network |  |
 | MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
