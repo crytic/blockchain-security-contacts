@@ -134,7 +134,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bit-Z | safe@bit-z.pro | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
-| BitMEX | support@bitmex.com | [Support Page w/ Communication Security](https://www.bitmex.com/app/security) |
+| BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
