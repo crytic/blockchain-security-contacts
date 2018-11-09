@@ -19,6 +19,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitcoin Gold | admin@bitcoingold.org | [Disclosure policy](https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md) |
 | Bitshares | contactbitshares@bitshares.org | |
 | Bytecoin | contact@bytecoin.org | |
+| Cloakcoin | anorak@cloakcoin.com | |
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
 | Decred | contact@decred.org | |
 | DogeCoin | | |
