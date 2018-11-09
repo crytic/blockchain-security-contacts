@@ -145,8 +145,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
-| ZBG | sp@zbg.com | |
 | QuadrigaCX | security@quadrigacx.com | |
+| ShapeShift | security@shapeshift.io | [Responsible Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
+| ZBG | sp@zbg.com | |
 
 
 ## Infrastructure
@@ -160,7 +161,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | --- |
+| KeepKey | security@shapeshift.io | [Responsible Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
 | MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
+
