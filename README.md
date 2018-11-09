@@ -174,3 +174,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
 
+## Consultancies
+
+| Name | Contact | More info |
+| --- | --- | --- |
+| Kyokan | mslipper@kyokan.io |  |
