@@ -47,12 +47,12 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
+| Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
 | Kyber Network | | hello@kyber.network | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
-| Connext | | support@connext.network | |
 
 ## ERC20 Tokens
 
