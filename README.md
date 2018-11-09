@@ -92,6 +92,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
