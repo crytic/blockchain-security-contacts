@@ -135,6 +135,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
+| Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
