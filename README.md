@@ -146,6 +146,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
 | ZBG | sp@zbg.com | |
+| QuadrigaCX | security@quadrigacx.com | |
 
 
 ## Infrastructure
