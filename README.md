@@ -135,6 +135,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | BCEX | business@bcex.top, service@bcex.top | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
+| Bittrex | security@bittrex.com | |
 | Bit-Z | safe@bit-z.pro | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
