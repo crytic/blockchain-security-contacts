@@ -105,6 +105,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | security@quantstamp.com | [Bug bounty](https://quantstamp.com/responsible-disclosure) |
 | RChain | RHOC | [Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
+| Salt | SALT | [Etherscan](https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581) | salt_security@saltlending.com | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
