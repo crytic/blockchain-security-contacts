@@ -178,4 +178,4 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | --- |
-| Kyokan | mslipper@kyokan.io |  |
+| Kyokan | security@kyokan.io |  |
