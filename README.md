@@ -52,6 +52,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
+| Enclaves | | enclavesio@gmail.com | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
@@ -127,7 +128,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
 | TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | team@tenx.tech | |
 | TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | hello@trusttoken.com | |
-| USDCoin | USDC | [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) | usdc-security@circle.com | | 
+| USDCoin | USDC | [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) | usdc-security@circle.com | |
 | Veritaseum | VERI | [Etherscan](https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374) | | |
 | Waltonchain | WTC | [Etherscan](https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74) | info@waltonchain.org | |
 | WAX | WAX | [Etherscan](https://etherscan.io/token/0x39bb259f66e1c59d5abef88375979b4d20d98022) | support@wax.io | |
@@ -198,4 +199,3 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Emerald Wallet | security@etcdevteam.com | |
-
