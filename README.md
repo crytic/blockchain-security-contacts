@@ -25,6 +25,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | DogeCoin | | |
 | EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
+| Ethereum Classic | security@etcdevteam.com | |
 | ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
 | Nem | contact@nem.io | |
@@ -173,6 +174,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More Info |
 | --- | --- | --- |
 | Etherscan | | |
+| GasTracker | splix@gastracker.io | |
 | Infura | security@infura.io | |
 
 ## Wallets
@@ -188,4 +190,5 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
+| Emerald Wallet | security@etcdevteam.com | |
 
