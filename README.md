@@ -144,6 +144,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Coinbit | cs@coinbit.co.kr | |
 | Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
+| CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
 | EXX | support@exx.com | |
