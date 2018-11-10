@@ -50,6 +50,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
+| Ethfinex | | bounty@ethfinex.com | |
 | Kyber Network | | hello@kyber.network | |
 | Raiden Network| | bounty@raiden.network| |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
@@ -96,6 +97,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
@@ -113,6 +115,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
+| Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
 | TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | team@tenx.tech | |
 | TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | hello@trusttoken.com | |
 | USDCoin | USDC | [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) | usdc-security@circle.com | | 
@@ -137,6 +140,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bittrex | security@bittrex.com | |
 | Bit-Z | safe@bit-z.pro | |
+| Bitfinex | security@bitfinex.com | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | Bitso | security@bitso.com | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
@@ -148,6 +152,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
+| Ethfinex | security@ethfinex.com | |
 | EXX | support@exx.com | |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 | HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
