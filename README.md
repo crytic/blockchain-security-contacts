@@ -59,7 +59,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
-| RenEx | | security@republicprotocol.com |
+| RenEx | | security@republicprotocol.com | |
 
 ## ERC20 Tokens
 
