@@ -25,6 +25,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | DogeCoin | | |
 | EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
+| Ethereum Classic | security@etcdevteam.com | |
 | ICON | hello@icon.foundation | |
 | Litecoin | contact@litecoin.org |  |
 | Nem | contact@nem.io | |
@@ -46,17 +47,19 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
+| Aragon | [External Reference](https://github.com/aragon/deployments/tree/master/environments/mainnet) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/dev/bug_bounty/) |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
-| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Ethfinex | | bounty@ethfinex.com | |
+| Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | Kyber Network | | hello@kyber.network | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
+| RenEx | | security@republicprotocol.com |
 
 ## ERC20 Tokens
 
@@ -66,7 +69,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Aeternity | AE | [Etherscan](https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d) | info@aeternity.com | |
 | Aion | AION | [Etherscan](https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466) | hello@aion.network | |
 | AirSwap | AST | [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a) | team@airswap.io | |
-| Aragon | ANT | [Etherscan](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0) | security@aragon.one | |
+| Aragon | ANT | [Etherscan](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/dev/bug_bounty/) |
 | Augur | REP | [Etherscan](https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862) | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Aurora | AOA | [Etherscan](https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a) | info@aurorachain.io | |
 | Bancor | BNT | [Etherscan](https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c) | contact@bancor.network |  |
@@ -92,6 +95,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
+| Ledgerium | LGUM | [Etherscan](https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9) | security@ledgerium.net | |
 | Loopring | LRC | [Etherscan](https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f) | bounty@loopring.org | [Bug bounty](https://medium.com/loopring-protocol/bug-and-optimization-bounty-for-smart-contracts-c2c855f3a748) |
 | Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | team@loomx.io | |
 | Mainframe | MFT | [Etherscan](https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428) | security@mainframe.com | |
@@ -115,6 +119,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | QASH | QASH | [Etherscan](https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6) | | |
 | Quantstamp| QSP | [Etherscan](https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d) | security@quantstamp.com | [Bug bounty](https://quantstamp.com/responsible-disclosure) |
 | RChain | RHOC | [Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5) | | |
+| Ren | REN | [Etherscan](https://etherscan.io/address/0x408e41876cccdc0f92210600ef50372656052a38) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
@@ -139,6 +144,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
+| Amoveo Exchange | admin@amoveo.exchange | |
 | BCEX | business@bcex.top, service@bcex.top | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
@@ -147,6 +153,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitfinex | security@bitfinex.com | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | Bitso | security@bitso.com | |
+| Bitstamp | support@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
@@ -174,6 +181,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More Info |
 | --- | --- | --- |
 | Etherscan | | |
+| GasTracker | splix@gastracker.io | |
 | Infura | security@infura.io | |
 
 ## Wallets
@@ -189,4 +197,5 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
+| Emerald Wallet | security@etcdevteam.com | |
 
