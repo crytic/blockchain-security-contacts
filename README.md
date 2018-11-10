@@ -184,4 +184,5 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | Trustwallet | support@trustwalletapp.com |  |
+| Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 
