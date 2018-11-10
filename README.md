@@ -93,6 +93,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
+| Ledgerium | LGUM | [Etherscan](https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9) | security@ledgerium.net | |
 | Loopring | LRC | [Etherscan](https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f) | bounty@loopring.org | [Bug bounty](https://medium.com/loopring-protocol/bug-and-optimization-bounty-for-smart-contracts-c2c855f3a748) |
 | Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | team@loomx.io | |
 | Mainframe | MFT | [Etherscan](https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428) | security@mainframe.com | |
