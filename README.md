@@ -50,12 +50,13 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
-| Ethfinex | | bounty@ethfinex.com | |
-| Kyber Network | | hello@kyber.network | |
-| Raiden Network| | bounty@raiden.network| |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
+| Ethfinex | | bounty@ethfinex.com | |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
+| Kyber Network | | hello@kyber.network | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
+| Nahmii | | security@hubii.com | |
+| Raiden Network| | bounty@raiden.network| |
 
 ## ERC20 Tokens
 
@@ -86,6 +87,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
 | Holo | HOT | [Etherscan](https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2) | info@holo.host | |
+| Hubiits | HBT | [Etherscan](https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f) | security@hubii.com | |
 | IOST | IOST | [Etherscan](https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab) | team@iost.io | |
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
@@ -98,7 +100,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
-| Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
+| Nahmii | NII | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
+| Nectar | NEC | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
 | NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
