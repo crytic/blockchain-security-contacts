@@ -27,6 +27,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | Ethereum Classic | security@etcdevteam.com | |
 | ICON | hello@icon.foundation | |
+| IOV | security@iov.one | |
 | Litecoin | contact@litecoin.org |  |
 | Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
