@@ -170,6 +170,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 | HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
 | Huobi Global | sec@huobi.com | |
+| ICONOMI | security@iconomi.com | |
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
