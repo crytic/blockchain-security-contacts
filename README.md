@@ -121,6 +121,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | RChain | RHOC | [Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5) | | |
 | Ren | REN | [Etherscan](https://etherscan.io/address/0x408e41876cccdc0f92210600ef50372656052a38) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
+| SelfKey | KEY | [Etherscan](https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7) | help@selfkey.org | | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
