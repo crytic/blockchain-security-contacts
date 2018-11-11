@@ -193,6 +193,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Arkane | info@arkane.network |  |
 | BitGo | support@bitgo.com |  |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
+| Ledger  | security@ledger.fr | [Bug bounty](https://www.ledger.fr/bounty-program/) |
 | MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
