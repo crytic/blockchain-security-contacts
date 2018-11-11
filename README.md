@@ -66,9 +66,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 ## Decentralized Exchanges (DEXs)
 
-| Name | Contact | More Info |
-| --- | --- | --- |
-| Enclaves | contact@enclaves.io | |
+| Name | Deployed Addresses | Contact | More info |
+| --- | --- | --- | --- |
+| Enclaves | | contact@enclaves.io | |
 
 ## ERC20 Tokens
 
