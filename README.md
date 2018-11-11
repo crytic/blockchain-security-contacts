@@ -48,6 +48,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- | --- |
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | Aragon | [External Reference](https://github.com/aragon/deployments/tree/master/environments/mainnet) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/dev/bug_bounty/) |
+| Bancor Network | | security@bancor.network | |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
