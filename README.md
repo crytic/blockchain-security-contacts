@@ -52,7 +52,6 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Dharma | | security@dharma.io | |
-| Enclaves | | enclavesio@gmail.com | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
@@ -164,6 +163,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
+| Enclaves | | enclavesio@gmail.com | |
 | Ethfinex | security@ethfinex.com | |
 | EXX | support@exx.com | |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
