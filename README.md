@@ -59,6 +59,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | Kyber Network | | hello@kyber.network | |
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
+| Melon | | security@melonport.com | |
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
@@ -102,7 +103,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | team@loomx.io | |
 | Mainframe | MFT | [Etherscan](https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428) | security@mainframe.com | |
 | Maker | MKR | [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) | | |
-| Melon Token | MNT | | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
+| Melon Token | MLN | | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
