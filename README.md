@@ -168,6 +168,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
+| CoinExchange | support@coinexchange.io | |
 | Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
 | CryptoFacilities | contact@cryptofacilities.com | |
