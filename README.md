@@ -64,6 +64,10 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
 
+## Decentralized Exchanges (DEXs)
+
+| Enclaves | contact@enclaves.io | |
+
 ## ERC20 Tokens
 
 | Name | Ticker | Mainnet Address | Contact | More info |
@@ -167,7 +171,6 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
-| Enclaves | contact@enclaves.io | |
 | Ethfinex | security@ethfinex.com | |
 | EXX | support@exx.com | |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
