@@ -113,8 +113,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
-| Nahmii | NII | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
-| Nectar | NEC | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
+| Nahmii | NII | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
+| Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
