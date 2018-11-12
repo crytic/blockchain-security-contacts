@@ -202,7 +202,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | --- |
 | Arkane | info@arkane.network |  |
-| BitGo | support@bitgo.com |  |
+| BitGo | secteam@bitgo.com |  |
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
 | Ledger  | security@ledger.fr | [Bug bounty](https://www.ledger.fr/bounty-program/) |
