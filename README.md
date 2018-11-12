@@ -175,6 +175,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
 | Ethfinex | security@ethfinex.com | |
+| Exmo | admin@exmo.com | |
 | EXX | support@exx.com | |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 | HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
