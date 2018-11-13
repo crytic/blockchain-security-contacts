@@ -127,7 +127,6 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
-| Alphapoint | andrew.goodson@alphapoint.com |
 | BCEX | business@bcex.top, service@bcex.top | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
