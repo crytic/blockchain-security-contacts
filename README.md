@@ -165,6 +165,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitso | security@bitso.com | |
 | Bitstamp | support@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
+| Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
