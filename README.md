@@ -186,6 +186,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | OKEx | support@okex.com, lawenforcement@okex.com | |
 | Poloniex | poloniex-security@circle.com | |
 | QuadrigaCX | security@quadrigacx.com | |
+| SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
 | ShapeShift | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
 | ZBG | sp@zbg.com | |
 
