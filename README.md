@@ -95,6 +95,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
 | Dropil | DROP | [Etherscan](https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31) | support@dropil.com | |
+| Dynamic Trading Rights | DTR | [Etherscan](https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7) | security@tokens.net | |
 | FunFair | FUN | [Etherscan](https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b) | info@funfair.io | |
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
@@ -188,6 +189,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | QuadrigaCX | security@quadrigacx.com | |
 | SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
 | ShapeShift | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
+| Tokens | security@tokens.net | [Security page](https://www.tokens.net/security-policy/) |
 | ZBG | sp@zbg.com | |
 
 ## Infrastructure
