@@ -167,6 +167,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitso | security@bitso.com | |
 | Bitstamp | support@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
+| Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
@@ -208,7 +209,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | --- |
 | Arkane | info@arkane.network |  |
-| Blockchain | security@blockchain.info | [Bug bounty](https://hackerone.com/blockchain) |
+| Blockchain | security@blockchain.com| [Bug bounty](https://hackerone.com/blockchain) |
 | BitGo | secteam@bitgo.com |  |
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
