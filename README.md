@@ -114,6 +114,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| MUI Token | MUI | [Etherscan](https://etherscan.io/token/0x35321c78a48dd9ace94c8e060a4fc279a3a2d9fc) | wallet@sovereignwallet.network | |
 | Nahmii | NII | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
 | Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
@@ -216,6 +217,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
+| SovereignWallet | wallet@sovereignwallet.network |  |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Emerald Wallet | security@etcdevteam.com | |
