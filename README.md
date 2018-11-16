@@ -211,7 +211,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
-| SelfKey | help@selfkey.org | [Link](https://selfkey.org/selfkey-wallet/) |
+| SelfKey | help@selfkey.org | |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Emerald Wallet | security@etcdevteam.com | |
