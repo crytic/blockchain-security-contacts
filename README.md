@@ -170,6 +170,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
 | CoinExchange | support@coinexchange.io | |
+| Coinify | security@coinify.com | |
 | Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
 | CoinSwitch | security@coinswitch.co | |
