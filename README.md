@@ -3,6 +3,8 @@
 This directory is a community-curated resource for contacting security teams.
 It identifies the best way to contact an organization's security team so that
 hackers can report vulnerabilities directly to the organizations that can resolve them.
+This repo was adapted from the awesome [blockchain security contacts](https://github.com/trailofbits/blockchain-security-contacts)
+list created by Trail of Bits!
 
 This document is a work in progress.
 We're happy to accept feedback, questions, or ideas for improvements.
