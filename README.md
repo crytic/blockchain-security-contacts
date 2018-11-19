@@ -95,6 +95,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
 | Dropil | DROP | [Etherscan](https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31) | support@dropil.com | |
+| Dynamic Trading Rights | DTR | [Etherscan](https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7) | security@tokens.net | |
 | FunFair | FUN | [Etherscan](https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b) | info@funfair.io | |
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
@@ -113,6 +114,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| MUI Token | MUI | [Etherscan](https://etherscan.io/token/0x35321c78a48dd9ace94c8e060a4fc279a3a2d9fc) | wallet@sovereignwallet.network | |
 | Nahmii | NII | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
 | Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
@@ -165,12 +167,15 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitso | security@bitso.com | |
 | Bitstamp | support@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
+| Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
 | CoinExchange | support@coinexchange.io | |
+| Coinify | security@coinify.com | |
 | Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
+| CoinSwitch | security@coinswitch.co | |
 | CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
@@ -186,7 +191,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | OKEx | support@okex.com, lawenforcement@okex.com | |
 | Poloniex | poloniex-security@circle.com | |
 | QuadrigaCX | security@quadrigacx.com | |
+| SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
 | ShapeShift | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
+| Tokens | security@tokens.net | [Security page](https://www.tokens.net/security-policy/) |
 | ZBG | sp@zbg.com | |
 
 ## Infrastructure
@@ -202,7 +209,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | --- |
 | Arkane | info@arkane.network |  |
-| Blockchain | security@blockchain.info | [Bug bounty](https://hackerone.com/blockchain) |
+| Blockchain | security@blockchain.com| [Bug bounty](https://hackerone.com/blockchain) |
 | BitGo | secteam@bitgo.com |  |
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
@@ -212,6 +219,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | SelfKey | help@selfkey.org | |
+| SovereignWallet | wallet@sovereignwallet.network |  |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Emerald Wallet | security@etcdevteam.com | |
