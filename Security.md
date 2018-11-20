@@ -8,3 +8,4 @@
 | Solidified | | info@solidified.io | |
 | Trail of Bits | | https://www.trailofbits.com/contact/ | |
 | ZK Labs | | contact@zklabs.io | https://zklabs.io |
+| ChainSafe Systems | | security@chainsafe.io | https://chainsafe.io |
