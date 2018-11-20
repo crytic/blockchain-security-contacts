@@ -20,3 +20,4 @@
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
+| Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
