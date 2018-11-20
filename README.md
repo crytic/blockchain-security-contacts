@@ -23,11 +23,12 @@ please contact bounty@ethereum.org or check out their [Bug bounty](https://bount
 
 ## Other Contact Info
 
-* [Other Blockchain Protocols](Blockchains.md)
-* [Exchanges](Exchanges.md)
-* [Decentralized Exchanges](DEXs.md)
 * [Popular Dapp Projects](Dapps.md)
 * [Popular ERC20 Tokens](Tokens.md)
 * [Non-Fungible Token Projects](NFTs.md)
+* [Exchanges](Exchanges.md)
+* [Decentralized Exchanges](DEXs.md)
 * [Infrastructure](Infrastructure.md)
 * [Wallets](Wallets.md)
+* [Security Firms](Security.md)
+* [Other Blockchain Protocols](Blockchains.md)
