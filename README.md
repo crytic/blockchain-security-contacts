@@ -53,7 +53,6 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
-| Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
@@ -64,12 +63,14 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
+| Solidified | | info@solidified.io | |
 
 ## Decentralized Exchanges (DEXs)
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | Enclaves | | contact@enclaves.io | |
+| UniSwap | | contact@uniswap.io | |
 
 ## ERC20 Tokens
 
