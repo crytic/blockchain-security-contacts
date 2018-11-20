@@ -8,6 +8,7 @@
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
+| Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
