@@ -3,3 +3,5 @@
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | OpenZeppelin | | contact@openzeppelin.org | |
+| Solidified | | info@solidified.io | |
+| Trail of Bits | | https://www.trailofbits.com/contact/ | |
