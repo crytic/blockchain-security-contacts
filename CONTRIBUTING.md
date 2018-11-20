@@ -5,7 +5,7 @@ Please use one of the verification below. If none of these work, please indicate
 
 * **Reference an official website.** Provide a reference to an official website with the information that was submitted.
 * **Make a public tweet.** Use an established Twitter account that represents the organization to tweet a link to the PR.
-* **Use a dumb contract.** Have an established, contractual business relationship with a well-known security firm.
+* **Use a dumb contract.** Have an established, contractual business relationship with a well-known [security firm](Security.md).
 
 ## Rules for content
 
