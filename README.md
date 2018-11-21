@@ -91,7 +91,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bytom | BTM | [Etherscan](https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750) | contact@bytom.io | |
 | ChainLink | LINK | [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca) | support@chain.link | |
 | CyberMiles | CMT | [Etherscan](https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f) | contact@cybermiles.io | |
-| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | |  |
+| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | infosec@makerdao.com |  |
 | Decentraland | MANA | [Etherscan](https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942) | hello@decentraland.org | |
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
