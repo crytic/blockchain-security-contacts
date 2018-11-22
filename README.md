@@ -64,6 +64,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
 | Solidified | | info@solidified.io | |
+| Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
 ## Decentralized Exchanges (DEXs)
 
@@ -92,7 +93,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bytom | BTM | [Etherscan](https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750) | contact@bytom.io | |
 | ChainLink | LINK | [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca) | support@chain.link | |
 | CyberMiles | CMT | [Etherscan](https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f) | contact@cybermiles.io | |
-| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | |  |
+| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | infosec@makerdao.com |  |
 | Decentraland | MANA | [Etherscan](https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942) | hello@decentraland.org | |
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
@@ -135,7 +136,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ren | REN | [Etherscan](https://etherscan.io/address/0x408e41876cccdc0f92210600ef50372656052a38) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
 | SelfKey | KEY | [Etherscan](https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7) | help@selfkey.org | | |
-| SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
+| SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | security@spankchain.com | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
 | Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
