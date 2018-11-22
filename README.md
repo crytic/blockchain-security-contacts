@@ -172,6 +172,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bittrex | security-reports@bittrex.com | |
 | Bit-Z | safe@bit-z.pro | |
 | Bitfinex | security@bitfinex.com | |
+| bitFlyer | security@bitflyer.com | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | Bitso | security@bitso.com | |
 | Bitstamp | support@bitstamp.net | |
