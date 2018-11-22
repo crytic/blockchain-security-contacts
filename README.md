@@ -64,6 +64,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
+| Solidified | | info@solidified.io | |
 | Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
 ## Decentralized Exchanges (DEXs)
@@ -71,6 +72,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | Enclaves | | contact@enclaves.io | |
+| UniSwap | | contact@uniswap.io | |
 
 ## ERC20 Tokens
 
