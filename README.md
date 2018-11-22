@@ -72,6 +72,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | Enclaves | | contact@enclaves.io | |
+| Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | UniSwap | | contact@uniswap.io | |
 
 ## ERC20 Tokens
@@ -99,6 +100,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
 | Dropil | DROP | [Etherscan](https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31) | support@dropil.com | |
+| EToken Assets | | [List of Assets](https://explorer.ambisafe.co/#/assets) | security@ambisafe.com | Many tokens are issued with EToken |
 | Dynamic Trading Rights | DTR | [Etherscan](https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7) | security@tokens.net | |
 | FunFair | FUN | [Etherscan](https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b) | info@funfair.io | |
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
@@ -125,6 +127,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
+| Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| Orderbook USD | OUSD | [Etherscan](https://etherscan.io/token/0xca075cf7496d7fee464ceb98ccfbd3b6408bdf63) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
 | Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | support@polymath.zendesk.com | [Bug bounty](https://developers.polymath.network/docs/doc2.html) |
@@ -193,6 +197,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
+| Orderbook | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Poloniex | poloniex-security@circle.com | |
 | QuadrigaCX | security@quadrigacx.com | |
 | SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
@@ -204,6 +209,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
+| Ambisafe SaaS | security@ambisafe.com | |
 | Etherscan | | |
 | GasTracker | splix@gastracker.io | |
 | Infura | security@infura.io | |
@@ -212,6 +218,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | --- |
+| Ambisafe CryptoWallet | security@ambisafe.com | |
 | Arkane | info@arkane.network |  |
 | Blockchain | security@blockchain.com| [Bug bounty](https://hackerone.com/blockchain) |
 | BitGo | secteam@bitgo.com |  |
