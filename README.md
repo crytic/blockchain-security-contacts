@@ -53,6 +53,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
+| Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
@@ -63,6 +64,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
+| Solidified | | info@solidified.io | |
+| Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
 ## Decentralized Exchanges (DEXs)
 
@@ -70,6 +73,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- | --- |
 | Enclaves | | contact@enclaves.io | |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| UniSwap | | contact@uniswap.io | |
 
 ## ERC20 Tokens
 
@@ -91,12 +95,13 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bytom | BTM | [Etherscan](https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750) | contact@bytom.io | |
 | ChainLink | LINK | [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca) | support@chain.link | |
 | CyberMiles | CMT | [Etherscan](https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f) | contact@cybermiles.io | |
-| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | |  |
+| Dai | DAI | [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) | infosec@makerdao.com |  |
 | Decentraland | MANA | [Etherscan](https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942) | hello@decentraland.org | |
 | DentaCoin | DCN | [Etherscan](https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6) | founder@dentacoin.com | |
 | DigixDAO | DGD | | | |
 | Dropil | DROP | [Etherscan](https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31) | support@dropil.com | |
-| EToken Assets | | [List of assets and their smart contract addresses](https://explorer.ambisafe.co/#/assets) | security@ambisafe.com | 100+ tokens are issued using EToken framework |
+| EToken Assets | | [List of Assets](https://explorer.ambisafe.co/#/assets) | security@ambisafe.com | Many tokens are issued with EToken |
+| Dynamic Trading Rights | DTR | [Etherscan](https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7) | security@tokens.net | |
 | FunFair | FUN | [Etherscan](https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b) | info@funfair.io | |
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
@@ -108,21 +113,22 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
 | Ledgerium | LGUM | [Etherscan](https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9) | security@ledgerium.net | |
 | Loopring | LRC | [Etherscan](https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f) | bounty@loopring.org | [Bug bounty](https://medium.com/loopring-protocol/bug-and-optimization-bounty-for-smart-contracts-c2c855f3a748) |
-| Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | team@loomx.io | |
+| Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | security@loomx.io | |
 | Mainframe | MFT | [Etherscan](https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428) | security@mainframe.com | |
 | Maker | MKR | [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2) | | |
 | Melon Token | MLN | | security@melonport.com | [Bug bounty](https://melonport.com/bug-bounty) |
 | Monaco | MCO | [Etherscan](https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d) | contact@mco.crypto.com | |
 | Mithril | MITH | [Etherscan](https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb) | | |
 | Mixin | XIN | [Etherscan](https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33) | contact@mixin.one | |
+| MUI Token | MUI | [Etherscan](https://etherscan.io/token/0x35321c78a48dd9ace94c8e060a4fc279a3a2d9fc) | wallet@sovereignwallet.network | |
 | Nahmii | NII | [Etherscan](https://etherscan.io/token/0xac4f2f204b38390b92d0540908447d5ed352799a) | security@hubii.com | |
 | Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
-| Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
-| Orderbook USD | OUSD | [Etherscan](https://etherscan.io/token/0xca075cf7496d7fee464ceb98ccfbd3b6408bdf63) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| Orderbook USD | OUSD | [Etherscan](https://etherscan.io/token/0xca075cf7496d7fee464ceb98ccfbd3b6408bdf63) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
 | Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | support@polymath.zendesk.com | [Bug bounty](https://developers.polymath.network/docs/doc2.html) |
@@ -135,7 +141,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ren | REN | [Etherscan](https://etherscan.io/address/0x408e41876cccdc0f92210600ef50372656052a38) | | |
 | Sai | SAI | [Etherscan](https://etherscan.io/token/0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4) | | | |
 | SelfKey | KEY | [Etherscan](https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7) | help@selfkey.org | | |
-| SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | | |
+| SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | security@spankchain.com | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
 | Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
@@ -169,12 +175,15 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bitso | security@bitso.com | |
 | Bitstamp | support@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
+| Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
 | Coinbene | support@coinbene.com | |
 | Coinbit | cs@coinbit.co.kr | |
 | CoinExchange | support@coinexchange.io | |
+| Coinify | security@coinify.com | |
 | Coinsquare | security@coinsquare.com | |
 | Coinsuper | customer.support@coinsuper.com | |
+| CoinSwitch | security@coinswitch.co | |
 | CryptoFacilities | contact@cryptofacilities.com | |
 | Digifinex | support@digifinex.com | |
 | DOBI | service@dobitrade.com | |
@@ -188,10 +197,12 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
-| Orderbook | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| Orderbook | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Poloniex | poloniex-security@circle.com | |
 | QuadrigaCX | security@quadrigacx.com | |
+| SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
 | ShapeShift | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
+| Tokens | security@tokens.net | [Security page](https://www.tokens.net/security-policy/) |
 | ZBG | sp@zbg.com | |
 
 ## Infrastructure
@@ -209,7 +220,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- |
 | Ambisafe CryptoWallet | security@ambisafe.com | |
 | Arkane | info@arkane.network |  |
-| Blockchain | security@blockchain.info | [Bug bounty](https://hackerone.com/blockchain) |
+| Blockchain | security@blockchain.com| [Bug bounty](https://hackerone.com/blockchain) |
 | BitGo | secteam@bitgo.com |  |
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
@@ -218,6 +229,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
+| SelfKey | help@selfkey.org | |
+| SovereignWallet | wallet@sovereignwallet.network |  |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
 | Emerald Wallet | security@etcdevteam.com | |
