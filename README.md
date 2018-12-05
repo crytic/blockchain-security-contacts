@@ -217,6 +217,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Etherscan | | |
 | GasTracker | splix@gastracker.io | |
 | Infura | security@infura.io | |
+| SafeBlocks Firewall | support@safeblocks.io | |
 
 ## Wallets
 
