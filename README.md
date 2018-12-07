@@ -168,6 +168,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- |
 | Amoveo Exchange | admin@amoveo.exchange | |
 | BCEX | business@bcex.top, service@bcex.top | |
+| Bankera Exchange | technical@bankera.com | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
 | Bittrex | security-reports@bittrex.com | |
