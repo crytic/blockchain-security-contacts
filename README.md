@@ -88,6 +88,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Augur | REP | [Etherscan](https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862) | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Aurora | AOA | [Etherscan](https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a) | info@aurorachain.io | |
 | Bancor | BNT | [Etherscan](https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c) | contact@bancor.network |  |
+| Banker Token | BNK | [Etherscan](https://etherscan.io/token/0xc80c5e40220172b36adee2c951f26f2a577810c5) | technical@bankera.com | |
 | Basic Attention Token | BAT | | security@brave.com | [Bug bounty](https://hackerone.com/brave)
 | Bibox Token | BIX | [Etherscan](https://etherscan.io/token/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069) | |  |
 | Binance Coin | BNB | [Etherscan](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52) | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
