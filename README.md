@@ -205,6 +205,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | QuadrigaCX | security@quadrigacx.com | |
 | SFOX | security@sfox.com | [Bug Bounty](https://my.cesppa.com/#/programs/tY5GTkif2Gkz5DbU76GRz7) |
 | ShapeShift | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program) |
+| SpectroCoin | technical@spectrocoin.com | [Bug bounty](https://spectrocoin.com/en/bug-bounty.html) |
 | Trade.io | security@trade.io | |
 | Tokens | security@tokens.net | [Security page](https://www.tokens.net/security-policy/) |
 | ZBG | sp@zbg.com | |
