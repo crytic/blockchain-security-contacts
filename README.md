@@ -26,6 +26,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | Ethereum Classic | security@etcdevteam.com | |
+| Horizen | security@horizen.global | [Bug bounty](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/136871957/Bug+Bounty+Submission+Policy+and+Scope)|
 | ICON | hello@icon.foundation | |
 | IOV | security@iov.one | |
 | Litecoin | contact@litecoin.org |  |
