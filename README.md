@@ -167,7 +167,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
-| Amoveo Exchange | admin@amoveo.exchange | |
+| A1 Exchange | contact@a1.exchange | |
 | BCEX | business@bcex.top, service@bcex.top | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
