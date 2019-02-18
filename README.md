@@ -27,6 +27,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | Ethereum Classic | security@etcdevteam.com | |
 | Horizen | security@horizen.global | [Bug bounty](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/136871957/Bug+Bounty+Submission+Policy+and+Scope)|
+| Hush | hushteam@protonmail.com | [Security Page](https://github.com/MyHush/hush/blob/master/doc/security.md) |
 | ICON | hello@icon.foundation | |
 | IOV | security@iov.one | |
 | Komodo | security@komodoplatform.com | |
