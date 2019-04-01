@@ -48,7 +48,6 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | xDai Chain| security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) | 
 | ZCash | security@z.cash | [Security page](https://z.cash/support/security/) 
 
-
 ## Decentralized Applications
 
 | Name | Deployed Addresses | Contact | More info |
