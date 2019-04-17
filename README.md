@@ -36,6 +36,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Neo | contact@neo.org | |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
+| POA Core | security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) |
 | Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
 | RSK | security@rsk.co | [Bug bounty](https://hackerone.com/rsksmart) |
 | Sia | hello@sia.tech | |
@@ -44,7 +45,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Qtum | | |
 | Quorum | quorum_info@jpmorgan.com | |
 | VeChain | | |
-| ZCash | security@z.cash | [Security page](https://z.cash/support/security/) |
+| xDai Chain| security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) | 
+| ZCash | security@z.cash | [Security page](https://z.cash/support/security/) 
 
 ## Decentralized Applications
 
@@ -136,6 +138,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Orderbook USD | OUSD | [Etherscan](https://etherscan.io/token/0xca075cf7496d7fee464ceb98ccfbd3b6408bdf63) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Paypex | PAYX | [Etherscan](https://etherscan.io/token/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4) | contact@paypex.org | |
+| POA20 Bridge| POA20 | [Etherscan](https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62) | security@poanetwork.com |[Security page](https://forum.poa.network/c/general/security) |
 | PolySwarm | NCT | [Etherscan](https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1) | security@polyswarm.io | [Security page](https://polyswarm.io/security/) |
 | Polymath | POLY | [Etherscan](https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec) | support@polymath.zendesk.com | [Bug bounty](https://developers.polymath.network/docs/doc2.html) |
 | Populous | PPT | [Etherscan](https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a) | info@populous.co | |
