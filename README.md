@@ -77,7 +77,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
 | Enclaves | | contact@enclaves.io | |
-| Leverj | [Etherscan](https://etherscan.io/address/0xCE00901a0638d758D6f89d59dFa32120D2259B0C) | info@leverj.io | leverj.io |
+| Leverj | [Custodian](https://etherscan.io/address/0xCE00901a0638d758D6f89d59dFa32120D2259B0C) | info@leverj.io | leverj.io |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | UniSwap | | contact@uniswap.io | |
 
