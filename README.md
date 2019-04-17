@@ -67,6 +67,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | LivePeer | [External Reference](https://github.com/livepeer/wiki/blob/master/Deployed-Contract-Addresses.md) | security@livepeer.org | |
 | Melon | | security@melonport.com | |
 | Nahmii | | security@hubii.com | |
+| Nexus Mutual | | security@nexusmutual.io | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
 | Solidified | | info@solidified.io | |
