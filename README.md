@@ -71,6 +71,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
+| Set Protocol | | security@setprotocol.com | [Bug bounty](https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c) |
 | Solidified | | info@solidified.io | |
 | Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
