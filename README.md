@@ -78,7 +78,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
-| AirSwap | | [Etherscan](https://etherscan.io/address/0x8fd3121013a07c57f0d69646e86e7a4880b467b7) | bounty@airswap.io | |
+| AirSwap | [Etherscan](https://etherscan.io/address/0x8fd3121013a07c57f0d69646e86e7a4880b467b7) | bounty@airswap.io | |
 | Enclaves | | contact@enclaves.io | |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | UniSwap | | contact@uniswap.io | |
