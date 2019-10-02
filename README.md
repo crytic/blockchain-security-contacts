@@ -232,6 +232,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Etherscan | | |
 | GasTracker | splix@gastracker.io | |
 | Infura | security@infura.io | |
+| PegaSys | security@pegasys.tech | For Pantheon, Orion, and Artemis: Ethereum 1.0/2.0/EEA clients |
 | SafeBlocks Firewall | support@safeblocks.io |  |
 
 ## Wallets
