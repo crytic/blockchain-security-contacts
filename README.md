@@ -78,6 +78,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Deployed Addresses | Contact | More info |
 | --- | --- | --- | --- |
+| AirSwap | [Etherscan](https://etherscan.io/address/0x8fd3121013a07c57f0d69646e86e7a4880b467b7) | bounty@airswap.io | |
 | Enclaves | | contact@enclaves.io | |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | UniSwap | | contact@uniswap.io | |
@@ -89,7 +90,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Aelf | ELF | [Etherscan](https://etherscan.io/token/0xbf2179859fc6d5bee9bf9158632dc51678a4100e) | contact@aelf.io | |
 | Aeternity | AE | [Etherscan](https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d) | info@aeternity.com | |
 | Aion | AION | [Etherscan](https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466) | hello@aion.network | |
-| AirSwap | AST | [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a) | team@airswap.io | |
+| AirSwap | AST | [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a) | bounty@airswap.io | [Bug bounty](https://medium.com/fluidity/smart-contracts-and-bug-bounty-ad75733eb53f) |
 | Aragon | ANT | [Etherscan](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/dev/bug_bounty/) |
 | Augur | REP | [Etherscan](https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862) | bounty@augur.net | [Bug bounty](https://www.augur.net/bounty/) |
 | Aurora | AOA | [Etherscan](https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a) | info@aurorachain.io | |
