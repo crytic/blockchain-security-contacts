@@ -234,6 +234,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Infura | security@infura.io | |
 | PegaSys | security@pegasys.tech | For Pantheon, Orion, and Artemis: Ethereum 1.0/2.0/EEA clients |
 | SafeBlocks Firewall | support@safeblocks.io |  |
+| Upvest | security@upvest.co |  |
 
 ## Wallets
 
@@ -243,6 +244,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Arkane | info@arkane.network |  |
 | Blockchain | security@blockchain.com| [Bug bounty](https://hackerone.com/blockchain) |
 | BitGo | secteam@bitgo.com |  |
+| Emerald Wallet | security@etcdevteam.com | |
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
 | Ledger  | security@ledger.fr | [Bug bounty](https://www.ledger.fr/bounty-program/) |
@@ -254,4 +256,4 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | SovereignWallet | wallet@sovereignwallet.network |  |
 | Trustwallet | support@trustwalletapp.com |  |
 | Unchained Capital | secure@unchained-capital.com | [Bug Bounty](https://www.unchained-capital.com/bounties/)
-| Emerald Wallet | security@etcdevteam.com | |
+| Upvest | security@upvest.co | |
