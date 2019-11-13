@@ -58,7 +58,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bancor Network | | security@bancor.network | |
 | BarterDEX Network | | security@komodoplatform.com | |
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
-| Compound Finance | | security@compound.finance | |
+| C-Layer | [Compliance Layer](https://c-layer.org/) | Defi | security@c-layer.org | [Repository](https://github.com/c-layer/contracts) |
 | Connext | | support@connext.network | |
 | Decentralized Vulnerability Platform | | service@dvpnet.io | |
 | Democracy Earth | | hello@democracy.earth | |
