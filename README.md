@@ -63,6 +63,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Decentralized Vulnerability Platform | | service@dvpnet.io | |
 | Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
+| Erasure / Numerai | [External Reference](https://github.com/erasureprotocol/erasure-protocol) | security@numer.ai | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
@@ -136,6 +137,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nectar | NEC | [Etherscan](https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e) | bounty@ethfinex.com | |
 | NuCypher | NU | | security@nucypher.com | |
 | Nuls | NULS | [Etherscan](https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c) | hi@nuls.io | |
+| Numeraire | NMR | [Etherscan](https://etherscan.io/address/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671) | security@numer.ai | |
 | ODEM | ODEM | [Etherscan](https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a) | info@odem.io | |
 | OmiseGO | OMG | [Etherscan](https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07) | | |
 | Orderbook BTC | OBTC | [Etherscan](https://etherscan.io/token/0x76ed39003c6ca656c1f5e5e2524eff03feeb6bfc) | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
