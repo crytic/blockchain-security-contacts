@@ -255,7 +255,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
 | Ledger  | security@ledger.fr | [Bug bounty](https://www.ledger.fr/bounty-program/) |
 | MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
-| MyCrypto | security@mycrypto.com | [Bug bounty](https://hackerone.com/mycrypto) |
+| MyCrypto | security@mycrypto.com | [Disclosure Program](https://security.mycrypto.com) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
 | SelfKey | help@selfkey.org | |
