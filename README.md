@@ -240,6 +240,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | PegaSys | security@pegasys.tech | For Pantheon, Orion, and Artemis: Ethereum 1.0/2.0/EEA clients |
 | SafeBlocks Firewall | support@safeblocks.io |  |
 | Upvest | security@upvest.co |  |
+| QuikNode | info@quiknode.io | |
 
 ## Wallets
 
