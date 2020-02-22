@@ -88,6 +88,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | AirSwap | [Etherscan](https://etherscan.io/address/0x8fd3121013a07c57f0d69646e86e7a4880b467b7) | bounty@airswap.io | |
 | Enclaves | | contact@enclaves.io | |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
+| Synthetix | | security@synthetix.io | |
 | UniSwap | | contact@uniswap.io | |
 
 ## ERC20 Tokens
@@ -161,6 +162,8 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Salt | SALT | [Etherscan](https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581) | salt_security@saltlending.com | |
 | SelfKey | KEY | [Etherscan](https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7) | help@selfkey.org | | |
 | SpankChain | SPANK | [Etherscan](https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18) | security@spankchain.com | |
+| Synthetix | SNX | [Proxy](https://contracts.synthetix.io/ProxySynthetix) [Underlying](https://contracts.synthetix.io/Synthetix) | security@synthetix.io | |
+| Synths (all flavors) | sUSD, sETH, etc | [Proxy sUSD](https://contracts.synthetix.io/ProxysUSD) | security@synthetix.io | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
 | Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
