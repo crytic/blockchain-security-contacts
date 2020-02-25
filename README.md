@@ -24,6 +24,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Dash | | [Bug bounty](https://bugcrowd.com/dashdigitalcash) |
 | Decred | contact@decred.org | |
 | DogeCoin | | |
+| Edgeware | security@commonwealth.im | |
 | EOS | | [Bug bounty](https://hackerone.com/eosio) |
 | Ethereum | bounty@ethereum.org | [Bug bounty](https://bounty.ethereum.org/) |
 | Ethereum Classic | security@etcdevteam.com | |
@@ -62,6 +63,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bloom | [External Reference](https://bloom.co/docs/contracts/accounts/) | team@bloom.co | |
 | bZx | | security@bzx.network | |
 | C-Layer | [External Reference](https://c-layer.org/) | security@c-layer.org | |
+| Commonwealth.im | | security@commonwealth.im | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
 | Decentralized Vulnerability Platform | | service@dvpnet.io | |
