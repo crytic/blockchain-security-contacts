@@ -197,6 +197,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Bankera Exchange | technical@bankera.com | |
 | Bibox | support@bibox.zendesk.com | |
 | Binance | security@binance.com | [Bug Bounty](https://www.bugcrowd.com/binance) |
+| Bitaccess | security@bitaccess.ca | [Bug bounty](https://hackerone.com/bitaccess) |
 | Bittrex | security-reports@bittrex.com | |
 | Bit-Z | safe@bit-z.pro | |
 | Bitfinex | security@bitfinex.com | |
@@ -221,6 +222,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Ethfinex | security@ethfinex.com | |
 | Exmo | admin@exmo.com | |
 | EXX | support@exx.com | |
+| Faa.st | security@faa.st |[Bug bounty](https://hackerone.com/bitaccess) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 | HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
 | Huobi Global | sec@huobi.com | |
