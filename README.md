@@ -93,6 +93,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | AirSwap | [Etherscan](https://etherscan.io/address/0x8fd3121013a07c57f0d69646e86e7a4880b467b7) | bounty@airswap.io | |
 | DDEX | [Etherscan](https://etherscan.io/address/0x241e82c79452f51fbfc89fac6d912e021db1a3b7) | security@ddex.io | |
 | Enclaves | | contact@enclaves.io | |
+| Leverj | [Custodian](https://etherscan.io/address/0xCE00901a0638d758D6f89d59dFa32120D2259B0C) | info@leverj.io | leverj.io |
 | Orderbook | [Etherscan](https://etherscan.io/address/0xb3ec0d352c7935dd2663eafab4c99be6508df9af) | security@orderbook.io | [Instruction](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Synthetix | | security@synthetix.io | |
 | UniSwap | | contact@uniswap.io | |
@@ -125,6 +126,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Dropil | DROP | [Etherscan](https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31) | support@dropil.com | |
 | EToken Assets | | [List of Assets](https://explorer.ambisafe.co/#/assets) | security@ambisafe.com | Many tokens are issued with EToken |
 | Dynamic Trading Rights | DTR | [Etherscan](https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7) | security@tokens.net | |
+| FEE Token| FEE | [Etherscan](https://etherscan.io/token/0xffe4a5a685efc53f45bf50f3dab45ded1b028134) | info@leverj.io | |
 | FunFair | FUN | [Etherscan](https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b) | info@funfair.io | |
 | Gnosis | GNO | [Etherscan](https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96) | info@gnosis.pm | |
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
@@ -135,6 +137,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
 | Ledgerium | LGUM | [Etherscan](https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9) | security@ledgerium.net | |
+| Leverj | LEV | [Etherscan](https://etherscan.io/token/0x0f4ca92660efad97a9a70cb0fe969c755439772c) | info@leverj.io | |
 | Loopring | LRC | [Etherscan](https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f) | bounty@loopring.org | [Bug bounty](https://medium.com/loopring-protocol/bug-and-optimization-bounty-for-smart-contracts-c2c855f3a748) |
 | Loom Network | LOOM | [Etherscan](https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0) | security@loomx.io | |
 | Mainframe | MFT | [Etherscan](https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428) | security@mainframe.com | |
@@ -229,6 +232,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | ICONOMI | security@iconomi.com | |
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
+| Leverj | info@leverj.io | leverj.io |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
 | Orderbook | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Poloniex | poloniex-security@circle.com | |
