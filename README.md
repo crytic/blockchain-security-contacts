@@ -257,6 +257,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | SafeBlocks Firewall | support@safeblocks.io |  |
 | Upvest | security@upvest.co |  |
 | QuikNode | info@quiknode.io | |
+| Vyper | security@vyperlang.org | [Security Policy](https://github.com/vyperlang/vyper/security/policy) |
 
 ## Wallets
 
