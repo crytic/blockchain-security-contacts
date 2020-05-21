@@ -72,6 +72,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Erasure / Numerai | [External Reference](https://github.com/erasureprotocol/erasure-protocol) | security@numer.ai | |
 | Ethfinex | | bounty@ethfinex.com | |
 | Giveth | [External Reference](https://wiki.giveth.io/documentation/deployments/) |
+| Idle Finance | [External Reference](https://developers.idle.finance/contracts-and-codebase) | security@idle.finance | |
 | InstaDApp | [External Reference](https://github.com/InstaDApp/smart-contract) | info@instadapp.io | |
 | Kleros | [External Reference](https://github.com/kleros/kleros/blob/master/auditor.md) | contact@kleros.io | [Bug bounty](https://github.com/kleros/kleros/blob/master/auditor.md#bounties) |
 | Kyber Network | | hello@kyber.network | |
