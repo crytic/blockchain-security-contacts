@@ -231,7 +231,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Faa.st | security@faa.st |[Bug bounty](https://hackerone.com/bitaccess) |
 | Gemini Trust | security@gemini.com | [Security page](https://gemini.com/security/) |
 | HitBTC | relations@hitbtc.com, legal@hitbtc.com | |
-| Huobi Global | sec@huobi.com | |
+| Huobi Global | sec@huobi.com | [Security page](https://security.huobi.cn/zh-cn/news/detail/630428c05de7ccd84278a070dcd280e1)|
 | ICONOMI | security@iconomi.com | |
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
