@@ -35,7 +35,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IOV | security@iov.one | |
 | Komodo | security@komodoplatform.com | |
 | Litecoin | contact@litecoin.org |  |
-| LanaCoin | security@lanacoin.com |[Source](https://github.com/LanaCoin/lanacoin |
+| LanaCoin | security@lanacoin.com |[Source](https://github.com/LanaCoin/lanacoin) |
 | Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
 | Netko | security@netko.tech |[Source](https://github.com/NetkoCoin/netko|
