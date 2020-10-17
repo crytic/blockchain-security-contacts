@@ -38,7 +38,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | LanaCoin | security@lanacoin.com |[Source](https://github.com/LanaCoin/lanacoin) |
 | Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
-| Netko | security@netko.tech |[Source](https://github.com/NetkoCoin/netko|
+| Netko | security@netko.tech |[Source](https://github.com/NetkoCoin/netko) |
 | NevaCoin | security@nevacoin.net|[Source](https://github.com/Nevacoin/nevacoin) |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
