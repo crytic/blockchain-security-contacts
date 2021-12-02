@@ -56,6 +56,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- | --- |
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | 1Hive | | [Keybase Chat](https://1hive.org/contribute/bug-bounty#reporting) | [Bug bounty](https://1hive.org/contribute/bug-bounty) |
+| AAVE | | security@aave.com | |
 | Ampleforth | [External Reference](https://github.com/ampleforth/uFragments/blob/master/README.md) | dev-support@ampleforth.org | |
 | Aragon | [External Reference](https://github.com/aragon/deployments/tree/master/environments/mainnet) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/association/security/#smart-contract-bug-bounty) |
 | Bamboo Relay | | dex@bamboorelay.com | |
