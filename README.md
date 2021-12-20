@@ -85,6 +85,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Raiden Network| | bounty@raiden.network| |
 | RenEx | | security@republicprotocol.com | |
 | Sablier | [External Reference](https://github.com/sablierhq/sablier#contracts-memo) | hello@sablier.finance | |
+| Sandclock | | security@sandclock.org | |
 | Set Protocol | | security@setprotocol.com | [Bug bounty](https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c) |
 | Solidified | | info@solidified.io | |
 | Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
