@@ -88,6 +88,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Sandclock | | security@sandclock.org | |
 | Set Protocol | | security@setprotocol.com | [Bug bounty](https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c) |
 | Solidified | | info@solidified.io | |
+| Sovryn | [External Reference](https://github.com/DistributedCollective/Sovryn-smart-contracts/blob/development/scripts/contractInteraction/mainnet_contracts.json) | | [Bug bounty](https://immunefi.com/bounty/sovryn/) |
 | Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
 ## Decentralized Exchanges (DEXs)
