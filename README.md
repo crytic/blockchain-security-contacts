@@ -84,6 +84,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Nexus Mutual | | security@nexusmutual.io | |
 | Raiden Network| | bounty@raiden.network| |
+| Reimagined Finance | | security@reimagined.fi | [Disclosure Policy](https://www.reimagined.fi/security) |
 | RenEx | | security@republicprotocol.com | |
 | Sablier | [External Reference](https://github.com/sablierhq/sablier#contracts-memo) | hello@sablier.finance | |
 | Sandclock | | security@sandclock.org | |
