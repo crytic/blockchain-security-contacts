@@ -214,7 +214,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | bitFlyer | security@bitflyer.com | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | Bitso | security@bitso.com | |
-| Bitstamp | support@bitstamp.net | |
+| Bitstamp | security@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
 | Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
