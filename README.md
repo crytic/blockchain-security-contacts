@@ -61,6 +61,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | --- | --- | --- | --- |
 | 0x | [External Reference](https://0xproject.com/wiki#Deployed-Addresses) | team@0xproject.com | [Bug bounty](https://0xproject.com/wiki#Bug-Bounty) |
 | 1Hive | | [Keybase Chat](https://1hive.org/contribute/bug-bounty#reporting) | [Bug bounty](https://1hive.org/contribute/bug-bounty) |
+| AAVE | | security@aave.com | |
 | Ampleforth | [External Reference](https://github.com/ampleforth/uFragments/blob/master/README.md) | dev-support@ampleforth.org | |
 | Aragon | [External Reference](https://github.com/aragon/deployments/tree/master/environments/mainnet) | security@aragon.org | [Bug bounty](https://wiki.aragon.org/association/security/#smart-contract-bug-bounty) |
 | Bamboo Relay | | dex@bamboorelay.com | |
@@ -72,6 +73,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Commonwealth.im | | security@commonwealth.im | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
+| Decentraland | | | [Bug bounty](https://decentraland.org/security/) |
 | Decentralized Vulnerability Platform | | service@dvpnet.io | |
 | Democracy Earth | | hello@democracy.earth | |
 | Dharma | | security@dharma.io | |
@@ -87,10 +89,13 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Nahmii | | security@hubii.com | |
 | Nexus Mutual | | security@nexusmutual.io | |
 | Raiden Network| | bounty@raiden.network| |
+| Reimagined Finance | | security@reimagined.fi | [Disclosure Policy](https://www.reimagined.fi/security) |
 | RenEx | | security@republicprotocol.com | |
 | Sablier | [External Reference](https://github.com/sablierhq/sablier#contracts-memo) | hello@sablier.finance | |
+| Sandclock | | security@sandclock.org | |
 | Set Protocol | | security@setprotocol.com | [Bug bounty](https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c) |
 | Solidified | | info@solidified.io | |
+| Sovryn | [External Reference](https://github.com/DistributedCollective/Sovryn-smart-contracts/blob/development/scripts/contractInteraction/mainnet_contracts.json) | | [Bug bounty](https://immunefi.com/bounty/sovryn/) |
 | Status.im | | security@status.im | [Bug bounty](https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456) |
 
 ## Decentralized Exchanges (DEXs)
@@ -141,6 +146,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Holo | HOT | [Etherscan](https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2) | info@holo.host | |
 | Hubiits | HBT | [Etherscan](https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f) | security@hubii.com | |
 | IOST | IOST | [Etherscan](https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab) | team@iost.io | |
+| Jigstack | STAK | [Etherscan](https://etherscan.io/token/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13) | hello@jigstack.org | |
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
 | KuCoin Shares | KCS | [Etherscan](https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab) | support@kucoin.com | |
 | Kyber Network | KNC | [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) | hello@kyber.network | |
@@ -183,8 +189,9 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Synths (all flavors) | sUSD, sETH, etc | [Proxy sUSD](https://contracts.synthetix.io/ProxysUSD) | security@synthetix.io | |
 | Status | SNT | [Etherscan](https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e) | security@status.im | |
 | Storj | STORJ | [Etherscan](https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac) | hello@storj.io | |
-| Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
+| Tellor | TRB | [Etherscan](https://etherscan.io/address/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0) | info@tellor.io | |
 | TenX | PAY | [Etherscan](https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280) | team@tenx.tech | |
+| Tether | USDT | [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7) | security@tether.to , security@bitfinex.com | |
 | TrueUSD | TUSD | [Etherscan](https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e) | hello@trusttoken.com | |
 | USDCoin | USDC | [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) | usdc-security@circle.com | |
 | Veritaseum | VERI | [Etherscan](https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374) | | |
@@ -215,7 +222,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | bitFlyer | security@bitflyer.com | |
 | Bitforex | support@bitforex.com, report@bitforex.com | |
 | Bitso | security@bitso.com | |
-| Bitstamp | support@bitstamp.net | |
+| Bitstamp | security@bitstamp.net | |
 | BitMEX | support@bitmex.com | [Security page](https://www.bitmex.com/app/security) |
 | Blockchain | security@blockchain.com | [Bug bounty](https://hackerone.com/blockchain) |
 | Coinbase | | [Bug bounty](https://hackerone.com/coinbase) |
@@ -279,7 +286,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Groundhog | security@groundhog.network | |
 | KeepKey | security@shapeshift.io | [Disclosure Program](https://ag.shapeshift.io/responsible-disclosure-program)
 | Ledger  | security@ledger.fr | [Bug bounty](https://www.ledger.fr/bounty-program/) |
-| MetaMask | support@metamask.io | [Bug bounty](https://github.com/MetaMask/metamask-extension/issues/3127) |
+| MetaMask | security@metamask.io | [Bug bounty](https://metamask.io/security) |
 | MyCrypto | security@mycrypto.com | [Disclosure Program](https://security.mycrypto.com) |
 | MyEtherWallet | security@myetherwallet.com | [Bug bounty](https://hackerone.com/myetherwallet) |
 | Parity | bugbounty@parity.io | [Bug bounty](https://paritytech.io/bug-bounty/) |
