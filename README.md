@@ -68,6 +68,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Commonwealth.im | | security@commonwealth.im | |
 | Compound Finance | | security@compound.finance | |
 | Connext | | support@connext.network | |
+| Cozy Finance | | security@cozy.finance | |
 | Decentraland | | | [Bug bounty](https://decentraland.org/security/) |
 | Decentralized Vulnerability Platform | | service@dvpnet.io | |
 | Democracy Earth | | hello@democracy.earth | |
