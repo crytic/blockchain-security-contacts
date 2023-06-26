@@ -15,6 +15,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Contact | More info |
 | --- | --- | ---- |
 | Arweave | team@arweave.org | | |
+| Auroracoin | m.hannes@auroracoin.is | | |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
 | Bitcoin Cash | | |
 | Bitcoin Gold | admin@bitcoingold.org | [Disclosure policy](https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md) |
