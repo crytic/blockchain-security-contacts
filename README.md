@@ -141,6 +141,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Golem | GNT | [Etherscan](https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d) | contact@golem.network | |
 | Holo | HOT | [Etherscan](https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2) | info@holo.host | |
 | Hubiits | HBT | [Etherscan](https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f) | security@hubii.com | |
+| Immutable X | IMX | [Etherscan](https://etherscan.io/token/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff) | security@immutable.com | |
 | IOST | IOST | [Etherscan](https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab) | team@iost.io | |
 | Jigstack | STAK | [Etherscan](https://etherscan.io/token/0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13) | hello@jigstack.org | |
 | Kin | KIN | [Etherscan](https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5) |  | |
@@ -200,7 +201,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Name | Mainnet Address | Contact | More Info |
 | --- | --- | --- | --- |
 | CryptoKitties (CK) | [Etherscan](https://etherscan.io/token/0x06012c8cf97bead5deae237070f9587f8e7a266d) | | |
-| Gods Unchained (GODS) | [Etherscan](https://etherscan.io/token/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab) | | |
+| Gods Unchained (GODS) | [Etherscan](https://etherscan.io/token/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab) | security@immutable.com | |
 
 ## Exchanges
 
