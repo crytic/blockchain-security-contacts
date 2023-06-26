@@ -14,6 +14,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More info |
 | --- | --- | ---- |
+| Aptos | security@aptoslabs.com | | |
 | Arweave | team@arweave.org | | |
 | Auroracoin | m.hannes@auroracoin.is | | |
 | Bitcoin | security@bitcoincore.org | [Security page](https://bitcoincore.org/en/contact/) |
