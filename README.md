@@ -2,7 +2,7 @@
 
 This directory is a community-curated resource for contacting security teams. It identifies the best way to contact an organization's security team so that hackers can report vulnerabilities directly to the organizations that can resolve them.
 
-This document is a work in progress. We're happy to accept feedback, questions, or ideas for improvements. [File an issue](https://github.com/trailofbits/blockchain-security-contacts/issues/new) or [join us on Slack](https://empireslacking.herokuapp.com/) to talk further.
+This document is a work in progress. We're happy to accept feedback, questions, or ideas for improvements. [File an issue](https://github.com/trailofbits/blockchain-security-contacts/issues/new) or [join us on Slack](https://slack.empirehacking.nyc/) to talk further.
 
 ## Recommendations
 
