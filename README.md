@@ -247,6 +247,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | IDAX | service@idax.mn | |
 | Kraken | bugbounty@kraken.com | [Bug Bounty](https://www.kraken.com/en-us/security/bug-bounty) |
 | Leverj | info@leverj.io | leverj.io |
+| Lopeer | support@lopeer.com | lopeer.com |
 | OKEx | support@okex.com, lawenforcement@okex.com | |
 | Orderbook | security@orderbook.io | [Instructions](https://help.orderbook.io/security-and-account-protection/how-to-report-a-bug-or-security-vulnerability-to-orderbook-team) |
 | Poloniex | poloniex-security@circle.com | |
